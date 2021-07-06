@@ -1,6 +1,0 @@
-solving dependency  by adding https://stackoverflow.com/questions/64560920/nosuchfieldexception-while-creating-a-spark-session-using-builder
-
-
-andfolowing the tutorial
- 
-https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html
