@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "StringType"
+  },
+  {
+    "Company": "StringType"
+  },
+  {
+    "Location": "StringType"
+  },
+  {
+    "Type": "StringType"
+  },
+  {
+    "Level": "StringType"
+  },
+  {
+    "YearsExp": "StringType"
+  },
+  {
+    "Country": "StringType"
+  },
+  {
+    "Skills": "StringType"
+  }
+]

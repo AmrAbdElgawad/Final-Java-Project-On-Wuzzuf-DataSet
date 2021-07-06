@@ -1,0 +1,650 @@
+[
+  {
+    "Location": " Cairo",
+    "Location_count": "563"
+  },
+  {
+    "Location": " Maadi",
+    "Location_count": "525"
+  },
+  {
+    "Location": " New Cairo",
+    "Location_count": "522"
+  },
+  {
+    "Location": " Nasr City",
+    "Location_count": "424"
+  },
+  {
+    "Location": " 6th of October",
+    "Location_count": "282"
+  },
+  {
+    "Location": " Heliopolis",
+    "Location_count": "247"
+  },
+  {
+    "Location": " Mohandessin",
+    "Location_count": "140"
+  },
+  {
+    "Location": " Dokki",
+    "Location_count": "140"
+  },
+  {
+    "Location": " Alexandria",
+    "Location_count": "130"
+  },
+  {
+    "Location": " Giza",
+    "Location_count": "126"
+  },
+  {
+    "Location": " 10th of Ramadan City",
+    "Location_count": "108"
+  },
+  {
+    "Location": " Sheraton",
+    "Location_count": "103"
+  },
+  {
+    "Location": " Sheikh Zayed",
+    "Location_count": "77"
+  },
+  {
+    "Location": " Obour City",
+    "Location_count": "74"
+  },
+  {
+    "Location": " Downtown",
+    "Location_count": "42"
+  },
+  {
+    "Location": " Mokattam",
+    "Location_count": "39"
+  },
+  {
+    "Location": " Riyadh",
+    "Location_count": "36"
+  },
+  {
+    "Location": " Haram",
+    "Location_count": "34"
+  },
+  {
+    "Location": " Bourj Alarab",
+    "Location_count": "31"
+  },
+  {
+    "Location": " Zamalek",
+    "Location_count": "31"
+  },
+  {
+    "Location": " Mansoura",
+    "Location_count": "30"
+  },
+  {
+    "Location": " Abu Rawash",
+    "Location_count": "25"
+  },
+  {
+    "Location": " Tanta",
+    "Location_count": "23"
+  },
+  {
+    "Location": " New Nozha",
+    "Location_count": "20"
+  },
+  {
+    "Location": " Katameya",
+    "Location_count": "19"
+  },
+  {
+    "Location": " Badr City",
+    "Location_count": "19"
+  },
+  {
+    "Location": " Port Said",
+    "Location_count": "19"
+  },
+  {
+    "Location": " Smart Village",
+    "Location_count": "18"
+  },
+  {
+    "Location": " Beni Suef",
+    "Location_count": "17"
+  },
+  {
+    "Location": " Agouza",
+    "Location_count": "15"
+  },
+  {
+    "Location": " Hurghada",
+    "Location_count": "15"
+  },
+  {
+    "Location": " Smouha",
+    "Location_count": "13"
+  },
+  {
+    "Location": " Hadayek Alahram",
+    "Location_count": "13"
+  },
+  {
+    "Location": " Abbassia",
+    "Location_count": "11"
+  },
+  {
+    "Location": " Dakahlia",
+    "Location_count": "11"
+  },
+  {
+    "Location": " New Capital",
+    "Location_count": "10"
+  },
+  {
+    "Location": " Sharqia",
+    "Location_count": "10"
+  },
+  {
+    "Location": " Minya",
+    "Location_count": "10"
+  },
+  {
+    "Location": " Sidi Gaber",
+    "Location_count": "10"
+  },
+  {
+    "Location": " Dubai",
+    "Location_count": "10"
+  },
+  {
+    "Location": " San Stefano",
+    "Location_count": "10"
+  },
+  {
+    "Location": " Mahta Alraml",
+    "Location_count": "9"
+  },
+  {
+    "Location": " Ain Shams",
+    "Location_count": "9"
+  },
+  {
+    "Location": " Alsadat City",
+    "Location_count": "9"
+  },
+  {
+    "Location": " Madinaty",
+    "Location_count": "9"
+  },
+  {
+    "Location": " Nozha",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Ameria",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Suez",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Shubra",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Gharbia",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Fayoum",
+    "Location_count": "8"
+  },
+  {
+    "Location": " Glim",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Damietta",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Aswan",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Monufya",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Belbes",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Manial",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Salam City",
+    "Location_count": "7"
+  },
+  {
+    "Location": " Muscat",
+    "Location_count": "6"
+  },
+  {
+    "Location": " Beheira",
+    "Location_count": "6"
+  },
+  {
+    "Location": " Sohag",
+    "Location_count": "6"
+  },
+  {
+    "Location": " Aga",
+    "Location_count": "6"
+  },
+  {
+    "Location": " Faisal",
+    "Location_count": "6"
+  },
+  {
+    "Location": " Ismailia",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Alhadra",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Garden City",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Zagazig",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Dammam",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Ain Sokhna",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Azbakia",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Assuit",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Agami",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Shorouk City",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Quweisna",
+    "Location_count": "5"
+  },
+  {
+    "Location": " Helwan",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Assiut",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Wadi Alnatrun",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Marsa Matruh",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Jeddah",
+    "Location_count": "4"
+  },
+  {
+    "Location": " San Salvador",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Rehab City",
+    "Location_count": "4"
+  },
+  {
+    "Location": " Basatin",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Banha",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Qena",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Kafr Alsheikh",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Mansheya",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Hadayek October",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Sidi Bishr",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Qalubia",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Abdeen",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Moharam Bek",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Azarita",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Luxor",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Bab Sharq",
+    "Location_count": "3"
+  },
+  {
+    "Location": " New Damietta",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Stanley",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Khobar",
+    "Location_count": "3"
+  },
+  {
+    "Location": " Bolkly",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Mandara",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Mallawi",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Doha",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Bab Alshareya",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Marg",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Dallas",
+    "Location_count": "2"
+  },
+  {
+    "Location": " New Valley",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Siouf",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Tunis",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Red Sea",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Santah",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Qalyub",
+    "Location_count": "2"
+  },
+  {
+    "Location": " khanka",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Shebin Alkom",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Fleming",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Menia",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Farafra",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Siwa Oasis",
+    "Location_count": "2"
+  },
+  {
+    "Location": " Sharm Alsheikh",
+    "Location_count": "1"
+  },
+  {
+    "Location": " New Assuit",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Sharabeya",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Montaza",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Kuwait City",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Mahalla Kubra",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Attarin",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Imbaba",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Abha",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Noubaria",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Makkah",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Gomrok",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Victoria",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Vienna",
+    "Location_count": "1"
+  },
+  {
+    "Location": " 15th May City",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Qantarah Sharq",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Lahore",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Surabaya",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Dahab",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Mit Ghamr",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Manama",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Ras Sedr",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Itsa",
+    "Location_count": "1"
+  },
+  {
+    "Location": " New Menia",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Hisar",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Allabban",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Al Rass",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Manila",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Helmeyat Alzaytoun",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Sao Paulo",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Abu Almatamir",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Sayeda Zeinab",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Chengdu",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Adfo",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Kafr Alzayat",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Lviv",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Baghdad",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Al Ahmadi",
+    "Location_count": "1"
+  },
+  {
+    "Location": " New Heliopolis",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Itajuba",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Colombo",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Belo Horizonte",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Damanhour",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Ataqah",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Jaipur",
+    "Location_count": "1"
+  },
+  {
+    "Location": " Ras Ghareb",
+    "Location_count": "1"
+  }
+]
