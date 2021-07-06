@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "Customer Service Agent",
+    "Company": "Johnson Controls",
+    "Location": "New Cairo",
+    "Type": "Full Time",
+    "Level": "Entry Level",
+    "YearsExp": "1-3 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "Call Center, Customer Support, Customer Care, English, Customer Service/Support"
+  },
+  {
+    "Title": "Marketing Manager",
+    "Company": "SYE English Community",
+    "Location": "Dokki",
+    "Type": "Full Time",
+    "Level": "Manager",
+    "YearsExp": "5-10 Yrs of Exp",
+    "Country": "Giza",
+    "Skills": "Market Research, Social Media, Online Marketing, Marketing Management, Marketing Plan, Event Management, Education, FMCG"
+  },
+  {
+    "Title": "Medical Representative Heliopolis",
+    "Company": "So Value Pharma",
+    "Location": "Cairo",
+    "Type": "Full Time",
+    "Level": "Entry Level",
+    "YearsExp": "0-5 Yrs of Exp",
+    "Country": "Egypt",
+    "Skills": "Cardio-metabolic, Sales Skills, Sales Target, Customer Service, Customer Care, Customer Support, Pharmacy, Pharmaceutical, Science"
+  },
+  {
+    "Title": "Order Handling Specialist",
+    "Company": "Johnson Controls",
+    "Location": "New Cairo",
+    "Type": "Full Time",
+    "Level": "Experienced",
+    "YearsExp": "3-5 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "Supply Officer, Supply Planner, Procurement and Logistics Specialist, Order Management Specialist, Order Processing Specialist"
+  },
+  {
+    "Title": "Storekeeper",
+    "Company": "Confidential",
+    "Location": "Cairo",
+    "Type": "Full Time",
+    "Level": "Experienced",
+    "YearsExp": "3+ Yrs of Exp",
+    "Country": "Egypt",
+    "Skills": "Warehousing, Storekeeping, Logistics/Supply Chain"
+  },
+  {
+    "Title": "Senior .NET Developer (Desktop Application)",
+    "Company": "Dexef",
+    "Location": "Maadi",
+    "Type": "Full Time",
+    "Level": "Experienced",
+    "YearsExp": "3-5 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "ASP.NET, Desktop Development, Information Technology (IT), Devexpress, MVC, TFS, Git, Computer Science, WinForms, MS SQL"
+  },
+  {
+    "Title": "Preschool French Teacher",
+    "Company": "Leap Development Hub",
+    "Location": "New Cairo",
+    "Type": "Full Time",
+    "Level": "Entry Level",
+    "YearsExp": "1-3 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "Education, Education/Teaching"
+  },
+  {
+    "Title": "Junior Business Development Specialist (out door)",
+    "Company": "E3mel Business for Financial & Managerial Consultancy",
+    "Location": "Maadi",
+    "Type": "Full Time",
+    "Level": "Entry Level",
+    "YearsExp": "1-3 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "Sales Target, Sales Skills, B2B Sales, B2C Sales, Business Development, CRM, Marketing, Corporate Sales, Business Development"
+  },
+  {
+    "Title": "Indoor Sales Executive Furniture",
+    "Company": "Line Design",
+    "Location": "Nasr City",
+    "Type": "Full Time",
+    "Level": "Experienced",
+    "YearsExp": "1-3 Yrs of Exp",
+    "Country": "Cairo",
+    "Skills": "sales skills, Sales/Retail"
+  },
+  {
+    "Title": "Content Creator / Copy Writer - Alexandria",
+    "Company": "EL KHETA",
+    "Location": "Alexandria",
+    "Type": "Full Time",
+    "Level": "Entry Level",
+    "YearsExp": "1+ Yrs of Exp",
+    "Country": "Egypt",
+    "Skills": "Copywriter, SEO, WordPress, Creative, Writing, Social Media, Marketing, Research, planing, Blog, Writing/Editorial"
+  }
+]

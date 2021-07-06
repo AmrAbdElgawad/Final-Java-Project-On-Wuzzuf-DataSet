@@ -1,0 +1,43 @@
+[
+  {
+    "summary": "count",
+    "Title": "4380",
+    "Company": "4380",
+    "Location": "4380",
+    "Type": "4380",
+    "Level": "4380",
+    "YearsExp": "4380",
+    "Country": "4380",
+    "Skills": "4380"
+  },
+  {
+    "summary": "mean",
+    "Company": "Infinity"
+  },
+  {
+    "summary": "stddev",
+    "Company": "NaN"
+  },
+  {
+    "summary": "min",
+    "Title": "\\Clients Relation Representative \\\\Account Manager\\\\\\",
+    "Company": "\\CRT \\\\Hr recruitment & services\\\\\\",
+    "Location": "10th of Ramadan City",
+    "Type": "Freelance / Project",
+    "Level": "Entry Level",
+    "YearsExp": "0-1 Yrs of Exp",
+    "Country": "Alexandria",
+    "Skills": ".NET Core, Bootstrap, javaScript, Software Development, HTML, CSS, Information Technology (IT), IT/Software Development"
+  },
+  {
+    "summary": "max",
+    "Title": "مندوب تحصيل - Collector",
+    "Company": "سلسلة معامل حديثة بالقاهرة",
+    "Location": "khanka",
+    "Type": "Work From Home",
+    "Level": "Work From Home",
+    "YearsExp": "null Yrs of Exp",
+    "Country": "United States",
+    "Skills": "فنيين, صيانة, ميكانيكة, Manufacturing/Production"
+  }
+]
