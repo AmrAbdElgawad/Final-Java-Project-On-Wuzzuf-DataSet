@@ -6,6 +6,9 @@
 ## Nayrouz Hamdy ElGammal 
 
 # project Functionality:
+### creating Dao class to deal with reading from dataset, POJO class that each dao method return a POJO object, making controller and service class to do the differen jobs and call each one with it's path;
+### Making webservice that responds to different requests and send Data in json Format .
+### a TesterClient class to test each path in the controller and testing that the web service working proberly and is doing it's job.
 
 1-To read dataset From csv and convert it to spark Dataframe.
 
